@@ -8,14 +8,14 @@
 	},
 	"dependencies": {
 		"babel-plugin-convert-to-json": "^0.1.0",
-		"react": "16.0.0-beta.5",
-		"react-native": "^0.50.0-rc.0"
+		"react": "16.0.0",
+		"react-native": "^0.50.0"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",
 		"babel-preset-react-native": "4.0.0",
 		"jest": "21.2.1",
-		"react-test-renderer": "16.0.0-beta.5",
+		"react-test-renderer": "16.0.0",
 		"source-map": "^0.6.1"
 	},
 	"jest": {
