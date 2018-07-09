@@ -15,7 +15,6 @@ import {
 } from 'react-native';
 
 import config from './src/config.json';
-import yml from './src/asset.yml';
 import img from './src/img.png';
 
 
@@ -37,7 +36,7 @@ export default class App extends Component<{}> {
             Welcome to React Native!!!! {config.foo}
           </Text>
           <Text style={styles.instructions}>
-            To get started, edit App.js {yml.integer}
+            To get started, edit App.js
           </Text>
           <Text style={styles.instructions}>
             {err.stack}
