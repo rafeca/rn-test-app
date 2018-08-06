@@ -5,6 +5,7 @@
 	"scripts": {
 		"dev": "react-native run-ios",
 		"prod": "react-native run-ios --configuration Release",
+		"sourcemap": "node scripts/sourcemap.js",
 		"test": "jest"
 	},
 	"dependencies": {
